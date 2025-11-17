@@ -34,7 +34,7 @@
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-15" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; line-height: 28px; overflow-anchor: auto; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot; face=&quot;MiSans&quot; data-font-src=&quot;https://font.sec.miui.com/font/css?family=MiSans:400,700:MiSans&quot;&gt;Application&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="104" y="280" width="620" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CKLzSf7du4DnJV2xRa-W-1" value="&lt;font face=&quot;MiSans&quot;&gt;conversation framework&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;" vertex="1" parent="1">
+        <mxCell id="CKLzSf7du4DnJV2xRa-W-1" value="&lt;font face=&quot;MiSans&quot;&gt;conversation server&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="103" y="390" width="620" height="90" as="geometry" />
         </mxCell>
       </root>
