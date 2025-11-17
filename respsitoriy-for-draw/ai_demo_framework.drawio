@@ -19,7 +19,7 @@
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-7" value="other LLM server" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
           <mxGeometry x="523" y="600" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NPlfuOlpc7oWpBB2snZ0-11" value="music plyaer" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-11" value="music player" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
           <mxGeometry x="103" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-12" value="adjust volume" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
