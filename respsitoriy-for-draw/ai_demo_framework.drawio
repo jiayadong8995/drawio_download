@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
+  <diagram name="第 1 页" id="XnvlZQVC9lryimBtw40c">
+    <mxGraphModel dx="1547" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-1" value="LLM Plugin Engine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="103" y="410" width="620" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-2" value="volc server" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="103" y="580" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-5" value="call&amp;nbsp;local tools" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="103" y="700" width="620" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-6" value="......" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="303" y="580" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-7" value="other LLM server" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="523" y="580" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-11" value="music plyaer" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="103" y="890" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-12" value="adjust volume" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="266.5" y="890" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-13" value="launch app" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="423" y="890" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-14" value="wait you to extend ..." style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="583" y="890" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NPlfuOlpc7oWpBB2snZ0-15" value="Appliacation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="103" y="210" width="620" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
