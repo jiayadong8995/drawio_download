@@ -1,38 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="第 1 页" id="XnvlZQVC9lryimBtw40c">
-    <mxGraphModel dx="1547" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-1" value="&lt;font face=&quot;MiSans&quot; data-font-src=&quot;https://font.sec.miui.com/font/css?family=MiSans:400,700:MiSans&quot;&gt;LLM Plugin Engine&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;" parent="1" vertex="1">
-          <mxGeometry x="103" y="460" width="620" height="100" as="geometry" />
+          <mxGeometry x="103" y="495" width="620" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-2" value="volc server" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="103" y="580" width="180" height="100" as="geometry" />
+          <mxGeometry x="103" y="600" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-5" value="call&amp;nbsp;local tools" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="103" y="700" width="620" height="100" as="geometry" />
+          <mxGeometry x="104" y="690" width="620" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-6" value="......" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="303" y="580" width="200" height="100" as="geometry" />
+          <mxGeometry x="303" y="600" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-7" value="other LLM server" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="523" y="580" width="200" height="100" as="geometry" />
+          <mxGeometry x="523" y="600" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-11" value="music plyaer" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="103" y="830" width="140" height="80" as="geometry" />
+          <mxGeometry x="103" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-12" value="adjust volume" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="266.5" y="830" width="140" height="80" as="geometry" />
+          <mxGeometry x="266.5" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-13" value="launch app" style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="423" y="830" width="140" height="80" as="geometry" />
+          <mxGeometry x="423" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-14" value="wait you to extend ..." style="whiteSpace=wrap;html=1;rounded=1;fontSize=20;fontFamily=MiSans;fontSource=https%3A%2F%2Ffont.sec.miui.com%2Ffont%2Fcss%3Ffamily%3DMiSans%3A400%2C700%3AMiSans;" parent="1" vertex="1">
-          <mxGeometry x="583" y="830" width="140" height="80" as="geometry" />
+          <mxGeometry x="583" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NPlfuOlpc7oWpBB2snZ0-15" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; line-height: 28px; overflow-anchor: auto; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot; face=&quot;MiSans&quot; data-font-src=&quot;https://font.sec.miui.com/font/css?family=MiSans:400,700:MiSans&quot;&gt;Application&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="103" y="340" width="620" height="100" as="geometry" />
+          <mxGeometry x="104" y="280" width="620" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CKLzSf7du4DnJV2xRa-W-1" value="&lt;font face=&quot;MiSans&quot;&gt;conversation framework&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="103" y="390" width="620" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
